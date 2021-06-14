@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="b1011Fly.cpp" />
+    <ClCompile Include="b10250ACM호텔.cpp" />
+    <ClCompile Include="b10757큰수더하기.cpp" />
+    <ClCompile Include="b1193분수.cpp" />
+    <ClCompile Include="b1463일로만들기.cpp" />
+    <ClCompile Include="b10870피보.cpp" />
+    <ClCompile Include="b2204난독증테스트.cpp" />
+    <ClCompile Include="b1016제곱ㄴㄴ수.cpp" />
+    <ClCompile Include="b2292벌집.cpp" />
+    <ClCompile Include="b2775부녀회장.cpp" />
+    <ClCompile Include="b2798블랙잭.cpp" />
+    <ClCompile Include="b2231분해합.cpp" />
+    <ClCompile Include="b10872팩토리얼.cpp" />
+    <ClCompile Include="b2447별찍기.cpp" />
+    <ClCompile Include="b11729하노이.cpp" />
+    <ClCompile Include="b2557helloWorld.cpp" />
+    <ClCompile Include="b10718단순출력.cpp" />
+    <ClCompile Include="b10171고양이.cpp" />
+    <ClCompile Include="b1712손익분기.cpp" />
+    <ClCompile Include="b2839설탕배달.cpp" />
+    <ClCompile Include="b2869달팽이.cpp" />
+    <ClCompile Include="b2741n찍기.cpp" />
+    <ClCompile Include="b2742기찍n.cpp" />
+    <ClCompile Include="b11021A+B-7.cpp" />
+    <ClCompile Include="b15596정수n개합.cpp" />
+    <ClCompile Include="b4673셀프넘버.cpp" />
+    <ClCompile Include="b1065한수.cpp" />
+  </ItemGroup>
+</Project>
