@@ -28,5 +28,9 @@
     <ClCompile Include="b15596정수n개합.cpp" />
     <ClCompile Include="b4673셀프넘버.cpp" />
     <ClCompile Include="b1065한수.cpp" />
+    <ClCompile Include="b15552A+B.cpp" />
+    <ClCompile Include="b11654아스키.cpp" />
+    <ClCompile Include="b11720숫자합.cpp" />
+    <ClCompile Include="b10809알파벳찾기.cpp" />
   </ItemGroup>
 </Project>
