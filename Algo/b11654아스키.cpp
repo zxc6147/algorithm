@@ -1,4 +1,4 @@
-//https://www.acmicpc.net/status?user_id=bongyeol&problem_id=11654&from_mine=1
+//https://www.acmicpc.net/problem/11654
 #include <iostream>
 
 using namespace std;

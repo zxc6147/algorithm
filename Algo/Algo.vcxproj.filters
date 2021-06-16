@@ -32,5 +32,12 @@
     <ClCompile Include="b11654아스키.cpp" />
     <ClCompile Include="b11720숫자합.cpp" />
     <ClCompile Include="b10809알파벳찾기.cpp" />
+    <ClCompile Include="b5622다이얼.cpp" />
+    <ClCompile Include="b2941크로아티아.cpp" />
+    <ClCompile Include="b1316그룹단어.cpp" />
+    <ClCompile Include="b2908상수.cpp" />
+    <ClCompile Include="b1546평균.cpp" />
+    <ClCompile Include="b1110더하기사이클.cpp" />
+    <ClCompile Include="b1978소수찾기.cpp" />
   </ItemGroup>
 </Project>

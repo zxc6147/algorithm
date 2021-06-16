@@ -12,9 +12,12 @@ int main() {
 	cin >> a;
 
 	for (int i = 0; i < a.size(); i++) {
-		cout << (int)a[i] - 0x61 << endl;
-		if (alphabet[(int)a[i] - 0x61]) {
-
+		if (alphabet[(int)a[i] - 0x61] == -1) {
+			alphabet[(int)a[i] - 0x61] = i;
 		}
+	}
+
+	for (int i = 0; i < 26; i++) {
+		cout << alphabet[i] << " ";
 	}
 }
